@@ -1,0 +1,2 @@
+
+INSERT INTO cust VALUES(02,'Saitwal','Vandana','mu',5560379)(03,'Jaguste','Pramada','da',4563891)(04,'Navindgi','Basu','ba',6125401)(05,'Sreedharan','Ravi','va',null)(06,'null create table cust( cust_id int primary key, lname varchar(50), fname varchar(50), area varchar(50), pnone_no int );25274);
